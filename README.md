@@ -1,12 +1,7 @@
  <div>
     <div class="login_form_container">
         <div class="login_form">
-        <h2>Login</h2>
-        <style>
-            h2{
-                text-align: left; 
-            }
-        </style>
+        <h2>Login</h2
         <div class="input_group">
             <i class="fa fa-user"></i>
             <input
@@ -15,11 +10,6 @@
             class="input_text"
             autocomplete="on"
             />
-            <style>
-                input{
-                    text-align: center;
-                }
-            </style>
             </div>
             <div class="input_group">
                 <i class="fa fa-unlock"></i>
@@ -29,28 +19,13 @@
                 class="input_text"
                 autocomplete="on"
                 />
-                <style>
-                    input{
-                        text-align: center;
-                    }
-                </style>
                 </div>
                 <div class="button_group" id="login_button">
                     <button>Submit</button>
-                    <style>
-                        button{
-                            text-align: center;
-                        }
-                    </style>
                 <div>
                     <div class="footer">
                         <button>Forgot Password ?</button>
                         <button>SignUp.</button>
-                        <style>
-                            button{
-                                text-align: center;
-                            }
-                        </style>
                       </div>
                     </div>
                 </div>
