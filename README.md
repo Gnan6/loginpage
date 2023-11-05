@@ -1,1 +1,33 @@
 # loginpage
+<div>
+    <div class="login_form_container">
+        <div class="login_form">
+        <h2>Login</h2>
+        <div class="input_group">
+            <i class="fa fa-user"></i>
+            <input
+            type="text"
+            placeholder="username"
+            class="input_text"
+            autocomplete="off"
+            />
+            </div>
+            <div class="input_group">
+                <i class="fa fa-unlock-alt"></i>
+                <input
+                type="password"
+                placeholder="password"
+                class="input_text"
+                autocomplete="off"
+                />
+                </div>
+                <div class="button_group" id="login_button">
+                    <a>Submit</a>
+                <div>
+                    <div class="fotter">
+                        <a>Forgot Password ?</a>
+                        <a>SignUp.</a>
+                      </div>
+                    </div>
+                </div>
+            <body>              
